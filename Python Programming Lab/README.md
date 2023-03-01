@@ -4,7 +4,7 @@
 1. <p><a href="https://github.com/gpbbsr/5th-Semester/blob/main/Python%20Programming%20Lab/01.py">Write instructions to perform each of the steps below :</a> 
 - Create a string containing at least five words and store it in a variable.
 - Print out the string.
-- Convert the string to a list of words using the string split method.24
+- Convert the string to a list of words using the string split method.
 - Sort the list into reverse alphabetical order using some of the list methods (you might need to use dir(list) or help(list) to find appropriate methods).
 - Print out the sorted, reversed list of words.
   </p>
